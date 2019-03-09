@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "minutetech-app",
+    "minutetech": "minutetech-app"
+  }
+}
